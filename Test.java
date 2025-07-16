@@ -1,4 +1,4 @@
-import java.util.*;
+import java.time.*;
 class Test{
   public static void main(String[] args){
     System.out.println("Hello from Jenkins Pipeline");
